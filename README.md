@@ -18,7 +18,7 @@
 7. Deployment Guide
    - Backend Deployment
    - Frontend Deployment
-8. [Demo](#https://drive.google.com/file/d/1zMkLaCtJzfC9Rj75ROjGnOMmjVzDoYyo/view?usp=sharing)
+8. [Demo](https://drive.google.com/file/d/1zMkLaCtJzfC9Rj75ROjGnOMmjVzDoYyo/view?usp=sharing)
 
 
 ## Introduction
@@ -190,7 +190,7 @@ torch for PyTorch support.
 
 ## Demo
 
-To see a  screencast of the application in action, you can check this [link](#https://drive.google.com/file/d/1zMkLaCtJzfC9Rj75ROjGnOMmjVzDoYyo/view?usp=sharing).
+To see a  screencast of the application in action, you can check this [link](https://drive.google.com/file/d/1zMkLaCtJzfC9Rj75ROjGnOMmjVzDoYyo/view?usp=sharing).
 
 
 
